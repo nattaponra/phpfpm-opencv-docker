@@ -1,4 +1,4 @@
-FROM nattaponra/phpfpm:7.1
+FROM nattaponra/php-fpm:7.1
 
 RUN apt-get -q -y update
 
